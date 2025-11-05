@@ -3,6 +3,8 @@ FinGuard is an intelligent financial analysis assistant that leverages AI and re
 FinGuard is an intelligent financial analysis assistant that leverages AI and real-time market data to summarize stock performance, analyst recommendations, and the latest financial news.
 Built using Python, Groq API, and multi-agent architecture, FinGuard simplifies investment research and helps users make smarter financial decisions.
 
+<img width="1600" height="793" alt="image" src="https://github.com/user-attachments/assets/a3d906af-01cc-421e-8409-6ffa010e5f03" />
+
 🚀 Features
 
 📈 Real-time stock data — Fetches live market insights and analyst ratings.
